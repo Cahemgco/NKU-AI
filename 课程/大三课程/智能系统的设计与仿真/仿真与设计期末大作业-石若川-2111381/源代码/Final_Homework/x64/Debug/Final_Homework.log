@@ -1,0 +1,91 @@
+﻿  pch.cpp
+  CMyDlg.cpp
+  Final_Homework.cpp
+  Final_HomeworkDoc.cpp
+  Final_HomeworkView.cpp
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(98,37): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(128,32): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(130,25): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(139,26): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(142,27): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(143,26): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(145,36): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(146,36): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(147,36): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(148,36): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(151,37): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(154,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(157,19): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(158,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(164,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(164,89): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(166,27): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(167,52): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(169,52): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(170,64): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(171,52): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(172,63): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(175,64): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(178,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(179,44): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(182,46): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(212,34): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(214,25): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(223,26): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(226,27): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(227,26): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(229,36): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(230,36): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(231,36): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(232,36): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(235,37): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(238,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(241,19): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(242,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(250,26): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(251,66): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(253,67): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(254,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(255,66): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(256,77): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(259,70): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(262,54): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(263,55): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(265,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(266,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(268,57): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(305,33): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(307,24): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(316,26): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(319,27): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(320,26): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(322,36): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(323,36): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(324,36): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(325,36): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(328,37): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(331,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(334,19): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(335,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(341,41): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(343,21): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(344,33): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(345,21): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(346,32): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(349,33): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(352,21): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(353,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(356,24): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(377,44): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(379,46): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(522,38): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(596,34): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(668,40): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(676,24): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(677,26): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(692,19): warning C4244: “参数”: 从“double”转换到“UINT”，可能丢失数据
+D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\Final_Homework\Final_HomeworkView.cpp(700,19): warning C4244: “参数”: 从“double”转换到“UINT”，可能丢失数据
+  MainFrm.cpp
+  正在生成代码...
+  LINK : 没有找到 D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\x64\Debug\Final_Homework.exe 或上一个增量链接没有生成它；正在执行完全链接
+  Final_Homework.vcxproj -> D:\文件\智能系统的设计与仿真\仿真与设计期末大作业-石若川-2111381\源代码\x64\Debug\Final_Homework.exe
